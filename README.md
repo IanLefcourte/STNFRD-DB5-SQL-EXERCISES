@@ -2,4 +2,4 @@
 
 Collection of my answers to SQL query exercises from the Stanford's [Databases - DB5 Course].
 
-A first step in the journey of learning SQL!
+Beginning the journey of learning SQL!
